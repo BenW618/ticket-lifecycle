@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, I went to the website localhost/osTicket/. From there, I created 3 tickets. The first one I created was by Karen and it was a “Business Critical Outrage” ticket. The second one was created by Ken and it was a “Personal Computer Issue” ticket. The last one was created by Karen again and it was a “General Inquiry” ticket. After creating these three tickets, I closed the website and went back to the original osTicket website. Once I was there, I logged into the website using Jane’s login info.You may watch the Youtube video linked above to watch me create the tickets.
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The next thing I did was adjust the settings of the tickets. For each ticket, I adjusted the priority level, the SLA Plan, and who it was assigned to. The one ticket that was “business impacting”, I assigned a Department for them. You may watch the Youtube video linked above to watch me adjust them.
 </p>
 <br />
 
@@ -49,6 +49,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After adjusting the settings of the tickets, I proceeded to resolve the tickets. You may watch the Youtube video linked above to watch me solve them.
 </p>
 <br />
